@@ -1,0 +1,17 @@
+*{
+    background-color: lightyellow;
+}
+
+#head{
+
+    color: chartreuse;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paragraph{
+
+    color: green;
+    text-align: justify;
+    font-size: large;
+}
