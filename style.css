@@ -1,0 +1,56 @@
+*{
+   margin: 0%;
+   padding: 0%;
+}
+
+.hero{
+
+    
+ background-image: url('https://images.unsplash.com/photo-1689656966481-043a970b7c76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80'); 
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color:#fff;
+    padding: 100px;
+}
+
+.heroContent{
+
+   max-width: 800px;
+   margin: 0 auto;
+}
+
+#hero-title{
+    
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px  rgba(0, 0, 0, 0.8) ;
+}
+
+#hero-para{
+
+    font-family: 'Arial', sans-serif;
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px  rgba(0, 0, 0, 0.8) ;
+
+}
+
+#button{
+
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: medium;
+    background-color: #ff6600;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+ #button:hover{
+    background-color: #ff4500;
+ }
