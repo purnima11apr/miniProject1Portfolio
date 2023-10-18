@@ -1,0 +1,16 @@
+.bulb{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background: yellow;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.bulb-container{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin: auto;
+}
